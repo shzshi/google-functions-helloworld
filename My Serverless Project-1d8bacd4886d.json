@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "my-serverless-project-201920",
+  "private_key_id": "1d8bacd4886dd8c1dba0ba67074bc403b9b0df17",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCJsAzpSkDkHq3/\nHWP88NuOF5IWFA+cfck+bWDejho3rGYm+bnwYenPcXK8C/Uk88fYgWRkEh68rI9T\niSo7drl5YlELzt0aGge6xlyt7g87Xp/2TaIPSypheug5xszZkXgTephfcNKMLYS/\n424+KSbm8+nWlYaKcN6URLTmaW67+s4XRO7/Hzd+hmIT3Efz7VzNAzlaGgA3jIwt\nzfpjg7IcFV67SsXrL2eMZrQ3MAPWS71ao/kMxTjW1o7SRHUtDFotsgblobUiltWy\nO2AGgoDLy/fnbq+SamNCFG2MonzO8HqedkCkH3tJfroC/6cDl+SDZI1da95Q5vzU\n+aqKt7phAgMBAAECggEAASQ2TjCPNkjuE7hrV9lqE4zs2U2iJb+p9YBYAk5Sp7Gg\nYOw28zgHlYB89VPCzPMvreMAOV9oVXN3hndzk/2/asMCtZ6p2PWcaOssMWWw5wLJ\nQBQrjtWGYNuhTVnRYNAeuwgcF2X2u+JkeGgG9eFW1QkygAS6Ml9+S+PALW0UNb8a\n3WukF4QYgfYHNsnG4TQmU2wybZ8QzzGwIPNOzx12AKHwRw2APQVKNAQ0rsstLA2I\nhZPFam26PhhLNo2N4I38JDibLbo5iha4AIYQBq7cDlLKxBZAY0ba3ipsxA9jqyNe\nw5orny+ylhIw2lx4YHUu8sQw5qbVLylfwJ6bDcb/0QKBgQC+eRODD3RQNJ480YHu\nOR5YM/d+qcB8fCyF7gE5Ks0846GrM6O6rIJxFNBsJtVH78MceptURohR/8FzoxCp\nbBqicg+Lo1bzIQjCsGH4NnxXzGUUAPIiefApsRMYE2nHsY2vtTSz81HLtAUJk3UB\nY5cVcXp/vp4BS2D4ewSPfqij8QKBgQC5Di9LpSHWNgMJz5gz3hMemL2VQadhgfNp\nZcoZk0nS+LF3/Pa+MjSWb9r6/wQzFx25Dz/sNjlJhN+KZaU1Ga4ZSedhZI6oxI/y\nFjoXrxhV2b/Xy4DGNptvH9eT+KmYcq5vKUAHy8aE500jpSI5/lRPwZmjNPjglmoc\nRFmQEtYtcQKBgGSPN6Xx+s59eS1Szu4eac7XYMsWg/E0/ayXwz2TQ1fqNehVExPz\nD8rz2jW/KssX4kKe2HLd6gqgpFmQtbM8x7ML1Pk7+yPRRPbEeHS7D1qrJpIxDaT2\nC713J0WGukobi1pAqNp4k66gFCjCGPvqwFEp4CqhUHoOedu11uqLTC2BAoGAHOC0\nyrYrMJVfJgHKO5XVH/ov44HKT/IKfREQV6tfYtfCQfosuwN0p2EvJ+nxytM5pS5X\nCFJx4CInDB7OiBnIzFN3EwCxLm72E44aZKXDQ2pmgJNWNhhBazbp2kJ8nLiQtfIW\n9uB6yzSZGg3j6G7i00tf4VMb31g5mM2luFDoMVECgYAVKJgT2ajMN8wuD/LNWm17\nWbh0MuhxYp0XiamG4vPzZuvO0gIR9LLpUu1651+qevA04jcnm8GIAXIjjNwtZtXM\npS2kr1LA9RA/LkrHEgjsTPGpCwkjPoUKDtfCrZ7YYooB4iH+HmVr76UA32sYKdFg\nO0NgRoAto3xVms5uX2eh5A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jenkins@my-serverless-project-201920.iam.gserviceaccount.com",
+  "client_id": "110112312482173623004",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jenkins%40my-serverless-project-201920.iam.gserviceaccount.com"
+}
