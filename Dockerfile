@@ -10,7 +10,7 @@ RUN apt-get install --yes build-essential
 RUN npm i -g npm
 
 RUN npm install serverless -g
-RUN npm install --global serverless serverless-openwhisk
+RUN npm install -g @google-cloud/functions-emulator
 
 RUN npm config set prefix '~/.npm-global'
 RUN export PATH=~/.npm-global/bin:$PATH
